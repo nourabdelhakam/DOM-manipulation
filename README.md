@@ -1,4 +1,4 @@
 # DOM-manipulation
 JavaScript
 
-https://nourabdelhakam.github.io/dom-manipulation/
+https://nourabdelhakam.github.io/dom/
